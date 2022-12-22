@@ -16,4 +16,10 @@ public class Main {
             return (x * y);
         }
     }
+    Product obj1=new Product();
+    obj1.product(1,2);
+    Product obj2=new Product();
+    obj.product(1,2,3);
+    Product obj3=new Product();
+    obj3.product(2.0,3.0);
 }
